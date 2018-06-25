@@ -1,0 +1,43 @@
+[
+     {
+        "competence": "Ajax",
+        "niveau": 2
+
+    },
+    {
+        "competence": "Front",
+        "niveau": 2
+
+    },
+    {
+        "competence": "JS",
+        "niveau": 2
+
+    },
+    {
+        "competence": "HTML",
+        "niveau": 2
+
+    },
+    {
+        "competence": "PHP",
+        "niveau": 3
+
+    },
+    {
+        "competence": "JQuery",
+        "niveau": 3
+
+    },
+    {
+        "competence": "Python",
+        "niveau": 5
+
+
+    },
+    {
+        "competence": "Back",
+        "niveau": 1
+
+    }
+]
